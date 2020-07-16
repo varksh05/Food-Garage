@@ -1,0 +1,151 @@
+/* Global */
+
+html,
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 400;
+}
+
+.lead {
+  font-weight: 400;
+}
+
+/* Header */
+header {
+  background-image: linear-gradient(#00000090, #00000090), url(images/header.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.logo {
+  height: 40px;
+}
+
+.nav-item a {
+  font-weight: 500;
+}
+
+.nav-item a:hover {
+  animation: tada;
+  animation-duration: 1.5s;
+}
+
+.header-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-transform: uppercase;
+}
+
+.section-title h2 {
+  font-weight: 500;
+}
+
+/* Online Order */
+
+#online_order {
+  font-weight: 300;
+}
+
+.fg-mobile {
+  max-width: 300px;
+}
+
+.app_download {
+  max-width: 175px;
+}
+
+/* Branches */
+#branches {
+  background-image: linear-gradient(orange, coral, yellow);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  font-weight: 300;
+}
+
+#branches .card:hover {
+  animation: pulse;
+  animation-duration: 2s;
+}
+
+/* Testimonials */
+#testimonial {
+  background-image: linear-gradient(#00000090, #00000090), url(images/testimonials.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#testimonial .card {
+  background-color: inherit;
+  border: none;
+}
+
+/* Footer */
+footer {
+  color: white;
+  background-color: black;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer ul li {
+  margin-top: 5px;
+}
+
+footer h6 {
+  color: gray;
+  text-transform: uppercase;
+}
+
+footer .app_download {
+  border: 2px solid white;
+  margin: 10px;
+}
+
+.top-border {
+  border-top: 2px solid gray;
+}
+
+.social-links li {
+  display: inline-block;
+  margin-right: 18px;
+  font-size: 18px;
+}
+
+.social-links li a {
+  color: white;
+}
+
+.fa-facebook-f:hover {
+  color: #3b5998;
+}
+
+.fa-pinterest:hover {
+  color: #e60023;
+}
+
+.fa-instagram:hover {
+  color: #8134af;
+}
+
+.fa-twitter:hover {
+  color: #00acee;
+}

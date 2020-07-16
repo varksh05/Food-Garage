@@ -1,0 +1,112 @@
+
+navbar
+    Food Garage Logo.
+
+    Why Food Garage
+    Branches
+    Online Order
+
+-------------------------------------------------------------------------------------------------
+header
+
+    GOOD BYE JUNK FOOD.
+    HELLO SUPER HEALTHY MEAL
+
+-------------------------------------------------------------------------------------------------
+#why_food_garage
+
+    Our restaurant,Food Garage offers a sophisticated dining experience 
+    for those seeking to explore beyond the ordinary and discover the full 
+    potential of south-indian dining experience. We work with the best chefs 
+    in each town to ensure you are 100% satisfied!
+
+    24/7 Availablity
+        We have 24/7 Online Delivery avilable which means you can order any 
+        time you want. Our subscription plans offer up to full year coverages. 
+        We are completely flexible according to your schedule.
+
+    100% Natural
+        All our vegetables and fruits are fresh and organic. 
+        Animals are raised without any artificial hormones or antibiotics. 
+        Good for your health, and the environment, it also tastes better!
+
+    Custom Order
+        We don't limit your creativity, which means you can order whatever you feel like. 
+        Or you can choose from our menu containing 100s of delicious meals. It's up to you!
+
+-------------------------------------------------------------------------------------------------
+#branches 
+
+    Chennai
+        350+ Members
+        foodgarage_ch
+    
+    Hyderabad
+        250+ Members
+        foodgarage_hy
+
+    Mumbai
+        300+ Members
+        foodgarage_mi
+    
+    Kolkata
+        150+ Members
+        foodgarage_kl
+
+-------------------------------------------------------------------------------------------------
+#online_order
+
+    Order delicious dish on our mobile app or website. Or you can even call us!
+
+    Food Garage App is now available.
+
+    We also accept orders from our delivery partners.
+
+-------------------------------------------------------------------------------------------------
+#testimonial
+
+    Hema DSouza
+        No doubt that it's one my finest picks in Chennai. 
+        The food, the ambience, and the service to root for. 
+        A heartwarming place with a lovely decor. 
+        Perfect even when broke.
+
+    Sanjay Ramasamya
+        Absolutely delicious food. They have a lot of options on the menu. 
+        Food is legit tasty. The packaging was also nicely done. 
+        Loved the experience and every time it is up to the mark!!
+
+    Nithya Vasudevan
+        Great place for your appetite and your health. 
+        Feels amazing and the food is really worthy of your tastebuds.
+
+-------------------------------------------------------------------------------------------------
+Footer
+
+    COMPANY
+        About us
+        Team
+        Careers
+        Food Garage Blog
+
+    CONTACTS
+        Help and Support
+        Partners with us
+        Ride with us
+
+    LEGAL
+        Terms and conditions
+        Refund and Cancellation
+        Privacy Policy
+        Cookie Policy
+        Offer Terms
+    -------------------------------------------------------------------------------------------------
+
+    Copyright © 2020 by Food Garage. All rights reserved.
+
+    Facebook-icon
+    Pinterest-icon
+    Instagram-icon
+    twitter-icon
+
+-------------------------------------------------------------------------------------------------
