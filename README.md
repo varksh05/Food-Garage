@@ -4,7 +4,7 @@ Detail view on front-end website development using HTML, CSS and Bootstrap.
 ## Google Fonts
 Feel Free to use any Fonts from https://fonts.google.com/
 ```html
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap"
 ```
 ## Font-Awesome
 ```html
